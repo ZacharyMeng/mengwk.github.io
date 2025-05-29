@@ -19,7 +19,11 @@ His research interests lie in efficient training and inference algorithms for la
 
 # Selected Publications
 
+<div style="border-bottom: none !important; padding-bottom: 0 !important;">
+
 ## New work is coming!
+
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
