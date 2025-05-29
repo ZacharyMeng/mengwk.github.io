@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+---
 
 # About me
 Weikang (Zachary) is a second-year Ph.D. candidate (2023-) at [SMULL Group](https://cszhengzhang.cn/SMULL/) of [HITsz CS](http://cs.hitsz.edu.cn) advised by Prof. [Zheng Zhang](https://cszhengzhang.cn/). 
@@ -19,11 +20,7 @@ His research interests lie in efficient training and inference algorithms for la
 
 # Selected Publications
 
-<div style="border-bottom: none !important; padding-bottom: 0 !important;">
-
 ## New work is coming!
-
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
