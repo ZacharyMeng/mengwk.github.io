@@ -24,7 +24,6 @@ His research interests lie in efficient training and inference algorithms for la
 
 
 To be updated.
-<strong><span class='show_paper_citations' data='cZOoYMkAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 </div>
 </div>
@@ -33,11 +32,10 @@ To be updated.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)
+[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cZOoYMkAAAAJ&citation_for_view=cZOoYMkAAAAJ:u5HHmVD_uO8C)
 
 **Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cZOoYMkAAAAJ&citation_for_view=cZOoYMkAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cZOoYMkAAAAJ:u5HHmVD_uO8C'></span></strong>
 This work presented a novel attention mechanism with linear complexity called PolaFormer. Our PolaFormer computed the similarity in a polarity-aware form to avoid neglecting negatives, at the same time, we theoretically proposed a familty of element-wise functions to make the attention weight more spiky and employ a learnable power function for simplicity and rescaling.
 </div>
 </div>
