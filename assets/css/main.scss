@@ -43,50 +43,26 @@
 ;
 
 .paper-box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+  display: flex;              // 启用弹性布局
+  flex-direction: column;     // 垂直排列子元素
+  align-items: center;        // 水平居中对齐
+  justify-content: center;    // 垂直居中对齐（可选，根据需求）
+  max-width: 100%;            // 防止容器溢出父元素
+  gap: 1rem;                  // 子元素间添加间距
 
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 1;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
-    }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 2;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 80%;
-            order: 2;
-        }
+  .paper-box-image {
+    // 图片样式
+    max-width: 100%;          // 防止图片溢出容器
+    height: auto;             // 保持图片比例
+    display: block;           // 清除图片底部间隙
+    margin: 0 auto;           // 水平居中（双重保障）
+  }
 
-    }
-
-
+  .paper-box-text {
+    // 文本样式
+    text-align: center;       // 文本内容居中
+    width: 100%;              // 宽度与图片对齐
+  }
 }
 
 $scroll_offset : 2em;
