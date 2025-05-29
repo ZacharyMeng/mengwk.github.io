@@ -52,7 +52,7 @@
 
   .paper-box-image {
     // 图片样式
-    max-width: 100%;          // 防止图片溢出容器
+    max-width: 80%;          // 防止图片溢出容器
     height: auto;             // 保持图片比例
     display: block;           // 清除图片底部间隙
     margin: 0 auto;           // 水平居中（双重保障）
