@@ -29,13 +29,20 @@ To be updated.
 
 ---
 
-### PolaFormer: Polarity-aware Linear Attention for Vision Transformers
 
-***Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang* 
 
-*International Conference on Learning Representations (ICLR), 2025*
-
-[[Paper]](https://arxiv.org/abs/2501.15061) [[Code]](https://github.com/ZacharyMeng/PolaFormer)
+<ul>
+  <li>
+    <p>
+      <b>PolaFormer: Polarity-aware Linear Attention for Vision Transformers</b>
+      <br>
+      <b>Weikang Meng</b>, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang. <br>
+      <i>International Conference on Learning Representations (ICLR), 2025</i>. <br>
+      <a href="[https://arxiv.org/abs/2410.23703](https://arxiv.org/abs/2501.15061)">[Paper]</a>
+      <a href="https://github.com/ZacharyMeng/PolaFormer">[Code]</a>
+    </p>
+  </li>
+</ul>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
