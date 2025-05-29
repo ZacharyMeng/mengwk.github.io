@@ -43,10 +43,11 @@
 ;
 
 .paper-box {
+    display: flex;
     justify-content: flex-start;
     align-items: stretch;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
     
