@@ -17,9 +17,13 @@ His research interests lie in efficient training and inference algorithms for la
 - *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to ICLR'25. 
 
 ## Selected Publications
-### New work is coming!
-
-To be updated.
+<ul>
+  <li>
+    <p>
+      <b>New work is coming!</b>
+    </p>
+  </li>
+</ul>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
