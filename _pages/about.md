@@ -9,17 +9,17 @@ redirect_from:
 
 ---
 
-# About me
+## About me
 Weikang (Zachary) is a second-year Ph.D. candidate (2023-) at [SMULL Group](https://cszhengzhang.cn/SMULL/) of [HITsz CS](http://cs.hitsz.edu.cn) advised by Prof. [Zheng Zhang](https://cszhengzhang.cn/). 
 He received his B.S. degree in Information and Computational Science at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023. 
 His research interests lie in efficient training and inference algorithms for large-scale foundation models, particularly linear attentions.
 
 
-# News
+## News
 - *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to ICLR'25. 
 
-# Selected Publications
-## New work is coming!
+## Selected Publications
+### New work is coming!
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -32,7 +32,7 @@ To be updated.
 
 ---
 
-## PolaFormer: Polarity-aware Linear Attention for Vision Transformers
+### PolaFormer: Polarity-aware Linear Attention for Vision Transformers
 
 **Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang [Paper Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cZOoYMkAAAAJ&citation_for_view=cZOoYMkAAAAJ:u5HHmVD_uO8C)
 
@@ -43,10 +43,10 @@ This work presented a novel attention mechanism with linear complexity called Po
 </div>
 </div>
 
-# Honors and Awards
+## Honors and Awards
 - *2018.09* National High School Mathematics League, Provincial first prize
 
-# Educations
+## Educations
 - *2023.08 - now*, Ph.D student, Harbin Institute of Technology, Shenzhen, Computer Science and Technology
 - *2019.08 - 2023.07*, Undergrauate student, Harbin Institute of Technology, Information and Computational Science
 - *2016.08 - 2019.07*, Harbin NO.3 High School
