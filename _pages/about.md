@@ -19,11 +19,10 @@ His research interests lie in efficient training and inference algorithms for la
 ## Selected Publications
 ### New work is coming!
 
+To be updated.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-To be updated.
 
 </div>
 </div>
@@ -32,7 +31,12 @@ To be updated.
 
 ### PolaFormer: Polarity-aware Linear Attention for Vision Transformers
 
-**Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang [Paper Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cZOoYMkAAAAJ&citation_for_view=cZOoYMkAAAAJ:u5HHmVD_uO8C)
+***Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang* 
+
+*International Conference on Learning Representations (ICLR), 2025*
+
+[[Paper]](https://arxiv.org/abs/2501.15061) [[Code]](https://github.com/ZacharyMeng/PolaFormer)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
