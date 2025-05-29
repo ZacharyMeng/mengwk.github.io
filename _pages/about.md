@@ -33,7 +33,7 @@ To be updated.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=30>PolaFormer: Polarity-aware Linear Attention for Vision Transformers</font>
+<font size=15>PolaFormer: Polarity-aware Linear Attention for Vision Transformers</font>
 
 **Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cZOoYMkAAAAJ&citation_for_view=cZOoYMkAAAAJ:u5HHmVD_uO8C)
 
